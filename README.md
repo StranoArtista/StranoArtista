@@ -4,6 +4,12 @@
 
 I had a certificated course on ASP .NET Core MVC from Bilge Adam Academy in İstanbul and i am more improved on Back-End development. I am currently working on my Front-End Skills.
 
+<img src="images/NET Core Success Certificate.png" alt="Success Certifikate" >
+
+<img src="images/NET Core Participaton Certificate.png" alt="Participation Certificate">
+
+
+
 Skills: GIT / MSSQL / Layered Architecture / T-SQL / ASP .NET Core MVC / C# / JS / HTML / CSS
 
 - 🔭 I’m currently working on ASP .NET Core  MVC Projects 
