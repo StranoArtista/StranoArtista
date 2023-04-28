@@ -6,7 +6,7 @@ I had a certificated course on ASP .NET Core MVC from Bilge Adam Academy in İst
 
 <img src="images/NET Core Success Certificate.png" alt="Success Certifikate" >
 
-<img src="images/NET Core Participaton Certificate.png" alt="Participation Certificate">
+<img src="images/NET Core Participation Certificate.png" alt="Participation Certificate">
 
 
 
